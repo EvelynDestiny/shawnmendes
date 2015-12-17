@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Niconne);
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+@import url(https://fonts.googleapis.com/css?family=Syncopate);
+@import url(https://fonts.googleapis.com/css?family=Gruppo);
+@import url(https://fonts.googleapis.com/css?family=Kavoon);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+body { 
+    background-image: url('pics/untitled-1.png');
+    background-attachment: fixed;
+	font-family: Niconne;}
+.Bangers{
+	font-family: Bangers;
+}
+.Kavoon{
+	font-family: Kavoon;
+}
+.Niconne{
+	font-family: Niconne;
+}
+.Syncopate{
+	font-family: Syncopate;
+}
+.Gruppo{
+	font-family: Gruppo;
+}
+
+img{
+	box-shadow:10px 10px 5px grey;
+	border:2px solid black;
+}
+a:hover { 
+    background-color: #cccccc;
+}
+
+.grad1 {
+    background: -webkit-linear-gradient(pink,purple); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(pink, purple); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(pink,purple); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(pink,purple); /* Standard syntax (must be last) */
+}
+
+a {
+    color: #CC99FF;
+}
